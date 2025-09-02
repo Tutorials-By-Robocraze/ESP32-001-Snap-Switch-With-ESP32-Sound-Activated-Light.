@@ -18,6 +18,9 @@ Perfect 👍 Here’s the **README.md** format for your **ESP32 + Sound Sensor L
 Check out the working demo on Instagram:
 👉 [Watch the Reel](https://www.instagram.com/reel/DNZp-rYvo_c/?igsh=eDA2bWY4OWdrbzVp)
 
+---
+## Circuit Diagram
+![Snap Switch Circuit](./snap_switch_circuit_diagram.png)
 
-
+---
 
